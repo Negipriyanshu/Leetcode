@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Negipriyanshu/Leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Negipriyanshu/Leetcode/tree/master/0048-rotate-image) |
+| [0217-contains-duplicate](https://github.com/Negipriyanshu/Leetcode/tree/master/0217-contains-duplicate) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Negipriyanshu/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Negipriyanshu/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Negipriyanshu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Negipriyanshu/Leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -57,5 +59,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Negipriyanshu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Negipriyanshu/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
