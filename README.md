@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Negipriyanshu/Leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Negipriyanshu/Leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Negipriyanshu/Leetcode/tree/master/0242-valid-anagram) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Negipriyanshu/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Negipriyanshu/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Negipriyanshu/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
