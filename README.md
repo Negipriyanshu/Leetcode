@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Negipriyanshu/Leetcode/tree/master/0001-two-sum) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/Negipriyanshu/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Hash Table
 |  |
 | ------- |
