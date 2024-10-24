@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Negipriyanshu/Leetcode/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/Negipriyanshu/Leetcode/tree/master/0048-rotate-image) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Negipriyanshu/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Hash Table
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Negipriyanshu/Leetcode/tree/master/0048-rotate-image) |
 | [1013-fibonacci-number](https://github.com/Negipriyanshu/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Negipriyanshu/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1013-fibonacci-number](https://github.com/Negipriyanshu/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Negipriyanshu/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Negipriyanshu/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
