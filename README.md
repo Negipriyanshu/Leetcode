@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Negipriyanshu/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Negipriyanshu/Leetcode/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/Negipriyanshu/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Negipriyanshu/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Negipriyanshu/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Negipriyanshu/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Negipriyanshu/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Negipriyanshu/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Negipriyanshu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Negipriyanshu/Leetcode/tree/master/0242-valid-anagram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Negipriyanshu/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
