@@ -81,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Negipriyanshu/Leetcode/tree/master/0392-is-subsequence) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Negipriyanshu/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
