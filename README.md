@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Negipriyanshu/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Negipriyanshu/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/Negipriyanshu/Leetcode/tree/master/0048-rotate-image) |
 | [0217-contains-duplicate](https://github.com/Negipriyanshu/Leetcode/tree/master/0217-contains-duplicate) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Negipriyanshu/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Negipriyanshu/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Negipriyanshu/Leetcode/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/Negipriyanshu/Leetcode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Negipriyanshu/Leetcode/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Negipriyanshu/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Negipriyanshu/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
