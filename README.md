@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Negipriyanshu/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/Negipriyanshu/Leetcode/tree/master/0048-rotate-image) |
 | [0217-contains-duplicate](https://github.com/Negipriyanshu/Leetcode/tree/master/0217-contains-duplicate) |
+| [1364-tuple-with-same-product](https://github.com/Negipriyanshu/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Negipriyanshu/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Negipriyanshu/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Negipriyanshu/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Negipriyanshu/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Negipriyanshu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Negipriyanshu/Leetcode/tree/master/0242-valid-anagram) |
+| [1364-tuple-with-same-product](https://github.com/Negipriyanshu/Leetcode/tree/master/1364-tuple-with-same-product) |
 ## Math
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Negipriyanshu/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Counting
+|  |
+| ------- |
+| [1364-tuple-with-same-product](https://github.com/Negipriyanshu/Leetcode/tree/master/1364-tuple-with-same-product) |
 <!---LeetCode Topics End-->
