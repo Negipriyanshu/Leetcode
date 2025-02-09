@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Negipriyanshu/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Negipriyanshu/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Negipriyanshu/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2448-count-number-of-bad-pairs](https://github.com/Negipriyanshu/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Negipriyanshu/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Negipriyanshu/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Negipriyanshu/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Negipriyanshu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Negipriyanshu/Leetcode/tree/master/0242-valid-anagram) |
 | [1364-tuple-with-same-product](https://github.com/Negipriyanshu/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [2448-count-number-of-bad-pairs](https://github.com/Negipriyanshu/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Negipriyanshu/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Negipriyanshu/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Negipriyanshu/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Negipriyanshu/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [2448-count-number-of-bad-pairs](https://github.com/Negipriyanshu/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Negipriyanshu/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [2448-count-number-of-bad-pairs](https://github.com/Negipriyanshu/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Simulation
 |  |
 | ------- |
